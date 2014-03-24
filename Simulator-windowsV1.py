@@ -15,4 +15,7 @@ time.sleep(5)
 print """
 injecting into the Mainframe...
 """
-print(type)
+time.sleep(8)
+print(type) injected!
+time.sleep(3)
+exit()
